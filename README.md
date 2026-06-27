@@ -5,8 +5,8 @@
 ## 📥 节点下载通道 (IPFS Gateways)
 由于网络原因，访问可能会受到限制，请尝试以下任一去中心化网络通道直接下载或在线阅读：
 
-* 🚀 [通道 A（推荐）](https://ipfs.io)
-* ⚡ [通道 B（备份）](https://pinata.cloud)
+* 🚀 [通道 A（推荐）](https://dweb.link)
+* ⚡ [通道 B（备份）](https://w3s.link)
 * 🌐 [通道 C（高速）](https://cloudflare-ipfs.com)
 
 ## 🔑 去中心化专属暗号 (IPFS CID)
